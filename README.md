@@ -25,5 +25,5 @@
  
 <div> 
   <a href = "mailto:vinicius78gabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vinicius-gabriel-de-lima-da-silva-664009158?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoLkimDFPRN2orK4cwyUnsw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/https://" tahttps://www.linkedin.com/in/vinicius-gabriel-de-lima-da-silva-664009158?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcMSXXMaQRd%2B6ZVP4%2Fc6sEQ%3D%3Drget="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
