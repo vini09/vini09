@@ -1,8 +1,8 @@
 ### Olá eu sou Vinicius Gabriel  👋
 
 
-- 🔭 Hoje busco uma oportunidade para estágio na parte de desenvolvimento Web
-- 🌱 Estudo PHP
+- 🔭 Buscando uma oportunidade para desenvolvedor PHP Jr.
+- 🌱 Um estudante em constante evolução
 - 📙 Estou cursando Bacharel de Sistemas de Informação
   
 <div style="display: inline_block"><br>
