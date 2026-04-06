@@ -11,6 +11,7 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-PHP" height="30" width="40" src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white>
+  <img align="center" alt="Vini-Python" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
 </div>
 
 <br>
