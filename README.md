@@ -1,7 +1,7 @@
 ### Olá eu sou Vinicius Gabriel  👋
 
 
-- 🔭 Buscando uma oportunidade para desenvolvedor PHP Jr.
+- 🔭 Buscando uma oportunidade para desenvolvedor Java Jr.
 - 🌱 Um estudante em constante evolução
 - 📙 Estou cursando Bacharel de Sistemas de Informação
   
